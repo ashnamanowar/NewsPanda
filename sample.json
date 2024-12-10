@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Trump says Russia abandoned Syria's Assad, never should have been involved - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/trump-says-russia-abandoned-syrias-assad-never-should-have-been-involved-2024-12-08/",
+            "urlToImage": null,
+            "publishedAt": "2024-12-08T10:46:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "New York shooting: Images released in hunt for UnitedHealthcare suspect - BBC.com",
+            "description": "New York police are still searching for the gunman who killed UnitedHealthcare boss Brian Thompson.",
+            "url": "https://www.bbc.com/news/articles/cpw22ger4gjo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b42c/live/a100f7a0-b524-11ef-a0f2-fd81ae5962f4.jpg",
+            "publishedAt": "2024-12-08T09:52:50Z",
+            "content": "Police have released two new images of a suspect in the hunt for the gunman who killed a health insurance chief executive in New York.\r\nUnitedHealthcare boss Brian Thompson, 50, was shot in the back … [+1607 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "RJ Young",
+            "title": "College football playoff predictions: Who's in and who's out of final CFP bracket - FOX Sports",
+            "description": "FOX Sports college football analyst RJ Young reveals his updated CFP projections after conference championship weekend.",
+            "url": "https://www.foxsports.com/stories/college-football/college-football-playoff-predictions-whos-whos-out-final-cfp-bracket",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/12/1408/814/2024-10-08-rjyoung-cfb-bracket-storycard.jpg?ve=1&tl=1",
+            "publishedAt": "2024-12-08T08:09:57Z",
+            "content": "Now that conference championship weekend has come to an end, the College Football Playoff selection committee have some thinking to do.\r\nIt feels like Oregon and Georgia have the top two seeds in the… [+4103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Zak Doffman",
+            "title": "FBI Warns iPhone, Android Users—Change WhatsApp, Facebook Messenger, Signal Apps - Forbes",
+            "description": "FBI warns all users to stop texting—but secure messaging apps must also be changed. Here’s what you need to know.",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/12/08/fbi-warns-iphone-android-users-change-whatsapp-facebook-messenger-signal-apps/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66abf55129bee43b04a31eef/0x0.jpg?format=jpg&crop=1066,753,x477,y226,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-12-08T07:34:39Z",
+            "content": "Stop textingbut these apps need to change as well.\r\nAnadolu Agency via Getty Images\r\nLast week, the FBI warned iPhone and Android users to stop texting and to use an encrypted messaging platform inst… [+7286 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Official Website of the Ultimate Fighting Championship"
+            },
+            "author": null,
+            "title": "Main Card Results | UFC 310: Pantoja vs Asakura - UFC",
+            "description": "See The Fight Results, Watch Post-Fight Interviews With The Main Card Winners And More From UFC 310: Pantoja vs Asakura, Live From T-Mobile Arena In Las Vegas, Nevada",
+            "url": "https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-310-pantoja-vs-asakura",
+            "urlToImage": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2024-11/120724-ufc-310-pantoja-vs-asakura-EVENT-ART.jpg?itok=vL4KJrcy",
+            "publishedAt": "2024-12-08T06:56:15Z",
+            "content": "The UFC 310 preliminary card slate was outstanding, featuring six finishes and trio of entertaining three-round battles, setting the stage for a captivating pay-per-view main card at T-Mobile Arena i… [+1256 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "BASSEM MROUE, ZEINA KARAM",
+            "title": "Syrian government falls in stunning end to 50-year rule of Assad family - The Associated Press",
+            "description": "The Syrian government fell early Sunday in a stunning end to the 50-year rule of the Assad family after a sudden rebel offensive sprinted across government-held territory and entered the capital in 10 days. Syrian state television aired a video statement by a…",
+            "url": "https://apnews.com/article/syria-assad-sweida-daraa-homs-hts-qatar-7f65823bbf0a7bd331109e8dff419430",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6b0faf0/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2Fe9%2Ff45dab7ac759b902296d0daf8307%2F815273a96ce742af83e208bc649e6b37",
+            "publishedAt": "2024-12-08T06:46:00Z",
+            "content": "BEIRUT (AP) The Syrian government fell early Sunday in a stunning end to the 50-year rule of the Assad family after a sudden rebel offensive sprinted across government-held territory and entered the … [+10011 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflight Now"
+            },
+            "author": null,
+            "title": "SpaceX launches 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral - Spaceflight Now",
+            "description": null,
+            "url": "https://spaceflightnow.com/2024/12/07/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/",
+            "urlToImage": null,
+            "publishedAt": "2024-12-08T06:29:08Z",
+            "content": "SpaceX launches 23 Starlink satellites on the Starlink 12-5 mission on Dec. 8, 2024. Image: Adam Bernstein/Spaceflight Now\r\nSpaceX launched its latest Falcon 9 shortly after midnight on Sunday, addin… [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Praveena Somasundaram",
+            "title": "Dorothy’s once-missing ruby slippers sold at auction for $28 million - The Washington Post",
+            "description": "The slippers, worn by Judy Garland in “The Wizard of Oz” were sold Saturday, nearly 20 years after they were stolen from a museum in Minnesota.",
+            "url": "https://www.washingtonpost.com/nation/2024/12/07/judy-garland-dorothy-ruby-slippers/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEGNKDQ4ERGOYCVB7EODC673EY_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-12-08T06:12:00Z",
+            "content": "The once-lost ruby slippers Judy Garland wore in The Wizard of Oz have now found a new home.\r\nNearly 20 years after they were stolen from the Judy Garland Museum in Grand Rapids, Minnesota, the slipp… [+211 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Joby Warrick, Ellen Nakashima",
+            "title": "Sweeping Syrian rebel advance resurrects U.S. fears of Islamist takeover - The Washington Post",
+            "description": "A string of stunning victories has spurred White House worries about a “catastrophic success” in Syria if Islamist fighters gain control. But experts say the rebels have changed.",
+            "url": "https://www.washingtonpost.com/national-security/2024/12/07/syria-rebels-biden-intelligence-islamists/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UXIA4EADKLWR77UQAIGONG6BPA.jpg&w=1440",
+            "publishedAt": "2024-12-08T06:05:21Z",
+            "content": "When a patchwork of rebel armies threatened Syrias capital a decade ago, governments from Washington to the Middle East were forced to confront a jarring possibility: A collapse of Syrias brutal auto… [+12205 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": "By  YONAH JEREMY BOB,  JERUSALEM POST STAFF",
+            "title": "IDF strikes Syrian chemical weapons factory, places tanks on border - report - The Jerusalem Post",
+            "description": "Earlier, the military noted that it had decided to reinforce troops for defense purposes throughout the Golan Heights region bordering Syria.",
+            "url": "https://www.jpost.com/breaking-news/article-832432",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/386338",
+            "publishedAt": "2024-12-08T05:08:40Z",
+            "content": "The IDF struck a chemical weapons factory belonging to the regime of former Syrian president Bashar al-Assad to prevent the rebels from seizing it, Arab media first reported on Sunday, and The Jerusa… [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "John Mahama wins Ghana election as Mahamudu Bawumia accepts defeat - BBC.com",
+            "description": "Although the ruling party candidate has conceded, no official results have been declared.",
+            "url": "https://www.bbc.com/news/articles/cdx9nlyjke4o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c830/live/fa2115c0-b553-11ef-b362-951b2ebdc897.jpg",
+            "publishedAt": "2024-12-08T05:06:26Z",
+            "content": "Ghana's Vice-President Mahamudu Bawumia has accepted defeat in Saturday's election and congratulated the opposition candidate, former President John Mahama, on his victory.\r\n\"The people have voted fo… [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Chris Rogers",
+            "title": "Influencer Breckie Hill addresses Barry Keoghan hookup rumors after he's accused of cheating on Sabrina Carpenter with her - Page Six",
+            "description": "“To put it simply for you all, no, I did not get with Barry,” she said in a TikTok video shared on social media Saturday evening. “I have never even encountered this man in my lif…",
+            "url": "https://pagesix.com/2024/12/07/celebrity-news/influencer-breckie-hill-addresses-barry-keoghan-hookup-rumors-after-hes-accused-of-cheating-on-sabrina-carpenter-with-her/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/12/94985589.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-12-08T04:24:00Z",
+            "content": "Influencer Breckie Hill is finally setting the record straight and squashing those Barry Keoghan hookup rumors. \r\nThe 21-year-old revealed she “recently got out of the hospital” after “getting into a… [+4171 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Black Shoe Diaries"
+            },
+            "author": "Chris  Lucia",
+            "title": "Big Ten Championship Game: Penn State - Oregon Fourth Quarter Open Thread - Black Shoe Diaries",
+            "description": "FOURTH QUARTER",
+            "url": "https://www.blackshoediaries.com/2024/12/7/24314982/big-ten-championship-game-penn-state-nittany-lions-football-oregon-ducks-fourth-quarter-open-thread",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/RsTvRdSLIF8Dw1OReVvCAd7C3dE=/0x389:3072x1997/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25777036/247991.jpg",
+            "publishedAt": "2024-12-08T03:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Associated Press",
+            "title": "Backup QB propels Georgia to OT win over Texas in SEC championship - New York Post ",
+            "description": "Gunner Stockton came off the bench in the second half after an injury to Carson Beck and led No. 5 Georgia to a 22-19 OT win in the SEC title game.",
+            "url": "https://nypost.com/2024/12/07/sports/backup-qb-propels-georgia-to-ot-win-over-texas-in-sec-title-game/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-6t1547dst-1733626297004.jpg?quality=75&strip=all&1733608330&w=1024",
+            "publishedAt": "2024-12-08T02:52:00Z",
+            "content": "ATLANTA The Georgia Bulldogs were struggling to get anything going against Texas, and there was little reason to be hopeful of a turnaround with their quarterback crumpled on the turf. Enter a guy wh… [+5361 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Cynthia Littleton",
+            "title": "Charli xcx, Jack Antonoff, Lainey Wilson, Quavo, Olivia Rodrigo, Lana Del Rey and More Salute the Year in Music at Variety’s Hitmakers Brunch - Variety",
+            "description": "Charli xcx, Jack Antonoff, Lainey Wilson and more gathered Saturday for Variety's Hitmakers Brunch saluting the teams beyond the year's top 25 songs.",
+            "url": "https://variety.com/2024/music/news/charli-xcx-jack-antonoff-lainey-wilson-quavo-variety-hitmakers-1236242427/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/12/GettyImages-2188210836-e1733621937437.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-12-08T02:07:00Z",
+            "content": "Charli xcx delivered a heartfelt salute to “The Velvet Underground &amp; Nico.” Jack Antonoff cheekily told a roomful of music industry insiders that “some of you care more about Pop Crave than Pitch… [+8988 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Joe Gould",
+            "title": "‘I am a survivor of sexual assault’: Ernst pledges ‘thorough vetting’ for Hegseth - POLITICO",
+            "description": "The Iowa Republican added that she's \"excited\" to sit down with the former Fox News and veteran host next week.",
+            "url": "https://www.politico.com/news/2024/12/07/ernst-hegseth-republican-defense-00193173",
+            "urlToImage": "https://static.politico.com/88/ab/13773d2043cea6d13cf20d6be1cc/senate-republicans-66018.jpg",
+            "publishedAt": "2024-12-08T01:39:37Z",
+            "content": "Ernst spoke during a panel at the annual Reagan National Defense Forum at the Ronald Reagan Presidential Library, citing her advocacy on the Senate Armed Services Committee for survivors of military … [+4449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-12-08T00:08:38Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Prince William and Trump meet after Notre-Dame reopening - BBC.com",
+            "description": "William joins other world leaders in Paris for the ceremonial reopening of the world-famous cathedral.",
+            "url": "https://www.bbc.com/news/articles/c05ppeym6jro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8eff/live/ba4d9cd0-b4df-11ef-aa61-39306101ed49.jpg",
+            "publishedAt": "2024-12-07T23:33:47Z",
+            "content": "Prince William and Donald Trump had a meeting after the Notre Dame reopening\r\nThe Prince of Wales met US President-elect Donald Trump while visiting France for the ceremonial reopening of Notre-Dame … [+5249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jack Dunn",
+            "title": "Lana Del Rey Credits Jack Antonoff for Her Marriage to Jeremy Dufrene - Variety",
+            "description": "Lana Del Rey credited Jack Antonoff's marriage to Margaret Qualley as \"a big reason\" why she married Jeremy Dufrene.",
+            "url": "https://variety.com/2024/music/news/lana-del-rey-jack-antonoff-marriage-jeremy-dufrene-1236242368/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/12/lana-del-rey-jack-antonoff.png?w=1000&h=563&crop=1",
+            "publishedAt": "2024-12-07T23:24:00Z",
+            "content": "While presenting producer and long-time collaborator Jack Antonoff with the Producer of the Decade award at Variety’s eighth-annual Hitmakers event, Lana Del Rey made a rare mention of her husband Je… [+1661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Texas Tribune"
+            },
+            "author": "By James Barragán, Renzo Downey and Jasper Scherer",
+            "title": "Dustin Burrows says he has votes to be Texas House speaker after David Cook wins GOP caucus vote - The Texas Tribune",
+            "description": "Burrows claims the support of a coalition of Republicans and Democrats, while Cook has the endorsement of the GOP caucus.",
+            "url": "https://www.texastribune.org/2024/12/07/texas-house-speaker-david-cook-dustin-burrows/",
+            "urlToImage": "https://thumbnails.texastribune.org/IuFe1xvEiROG-CVsae143CPa2C8=/1200x630/filters:quality(95):focal(0x0:3000x2000)/static.texastribune.org/media/files/d3d04071ac14494c35bd8043cad40d48/1207%20Speaker%20GOP%20Caucus%20BD%20TT%2018.jpg",
+            "publishedAt": "2024-12-07T23:14:18Z",
+            "content": "Audio recording is automated for accessibility. Humans wrote and edited the story. See our AI policy, and give us feedback.\r\nSign up for The Brief, The Texas Tribunes daily newsletter that keeps read… [+8665 chars]"
+        }
+    ]
+}
